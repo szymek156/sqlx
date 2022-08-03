@@ -15,6 +15,7 @@ members = [
     "examples/postgres/mockable-todos",
     "examples/postgres/transaction",
     "examples/sqlite/todos",
+    "examples/sqlite/migration_in_warp",
 ]
 
 [package]
